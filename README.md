@@ -1,1 +1,1 @@
-# generative-ai-test1
+# GASの練習で使用
